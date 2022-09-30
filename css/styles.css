@@ -1,0 +1,33 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	background-color:black;
+}
+.container{
+	      width:600px;
+		  margin:250px auto;
+		  background-color:white;
+		  padding:36px;
+		  border:1px solid black;
+}
+.btn{
+	display:flex;
+}
+.flx h1{
+	      font-size:30px;
+		  margin-left:10px;		
+		  color:#3d2f98;
+}
+.flx p{
+	     margin:23px 0px;
+		 color:grey;
+		 font-family: "Times New Roman", Times, serif;
+}
+.icon a{
+	  padding-right:15px;
+	  color:grey;
+	  text-decoration:none;
+}
